@@ -117,4 +117,8 @@ section {
 #projects {
 	padding: 0 0 1.2rem 0;
 	border-bottom: 1px var(--txt-color) solid;
+	article a {
+		display: block;
+		padding-top: 1em;
+	}
 }
