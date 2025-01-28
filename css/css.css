@@ -121,4 +121,7 @@ section {
 		display: block;
 		padding-top: 1em;
 	}
+	h3 a {
+		padding: 0;
+	}
 }
